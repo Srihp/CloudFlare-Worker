@@ -1,0 +1,5 @@
+name = "urlgen"
+type = "javascript"
+account_id = "3d219f87ce834a88ac5a9324c4ea821f"
+workers_dev = true
+
